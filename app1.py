@@ -1,6 +1,6 @@
 # input
 a=10
-b=5
+b=50
 
 # logic
 res=a-b
